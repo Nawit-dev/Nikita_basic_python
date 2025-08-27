@@ -21,13 +21,13 @@ print(type(y))
 num1 = 10
 num2 = 100
 
-num1 + num2
-num1 - num2
-num1 * num2
-num1 / num2
-num1 // num2
-num1 % num2
-num1 ** num2
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1 // num2)
+print(num1 % num2)
+print(num1 ** num2)
 
 # ================================================
 # 3. Особенности работы с делением
@@ -136,12 +136,12 @@ print("Java" in sentence)
 a = "apple"
 b = "banana"
 
-print(a==b)
+print(a == b)
 print(a != b )
-print(a<b)
-print(a>b)
-print(a<=b)
-print(a>=b)
+print(a < b)
+print(a > b)
+print(a <= b)
+print(a >= b)
 
 # ================================================
 # 8. Код символов
